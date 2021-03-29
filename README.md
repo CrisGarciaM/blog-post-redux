@@ -1,9 +1,4 @@
 <h1 align="center">Welcome to the Blog Post App 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/Blog Post" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/Blog Post.svg">
-  </a>
-</p>
 
 > This is a small mock-up app build with React.JS and Redux, where a small list of blog posts are fetch and display on the screen along with the user who posted them. The data is fetch using axios and then is dispatch to the components using Redux thunk.
 
